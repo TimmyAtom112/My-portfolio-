@@ -1,0 +1,12 @@
+--------------------------------
+| Logo        |  Menu          |
+--------------------------------
+|                              |
+|  Hi, I'm Timilehin John       |
+|  Front-End Web Developer     |
+|  Short intro text            |
+|  [View My Work] [Contact Me] |
+|                              |
+--------------------------------
+|   Social Icons / Scroll Hint |
+--------------------------------
